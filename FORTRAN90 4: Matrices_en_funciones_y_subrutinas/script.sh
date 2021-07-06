@@ -1,0 +1,1 @@
+gfortran modules/*.f* subroutines/*.f* tools/*.f* main.f90

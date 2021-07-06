@@ -1,0 +1,1 @@
+gfortran module/types.f90 plano/*.f90 cilindro/*.f90 main.f90
